@@ -1,1 +1,1 @@
-# trading bot
+# Trading bot
